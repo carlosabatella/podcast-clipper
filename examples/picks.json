@@ -1,0 +1,41 @@
+{
+  "media": "/path/to/episode.mp4",
+  "words": "runs/ep1/words.json",
+  "prefix": "creative-money-talk_ep1_",
+  "clips": [
+    {
+      "title": "Stop charging by the hour",
+      "start": "00:01:04.9",
+      "end": "00:01:22.3",
+      "hook": "Hourly pricing punishes you for getting better",
+      "emphasis": [
+        "half as much money",
+        "charge like it"
+      ],
+      "caption": "Get twice as good, make half as much. Full episode on Spotify.",
+      "hashtags": [
+        "#freelance",
+        "#pricing"
+      ],
+      "why": "contrarian claim, clean payoff",
+      "trend": "pricing transparency"
+    },
+    {
+      "title": "They were waiting for me to ask",
+      "start": "00:00:30.8",
+      "end": "00:00:59.8",
+      "hook": "I undercharged one client for 4 years",
+      "emphasis": [
+        "ten minutes"
+      ],
+      "layout": "follow",
+      "cut": {
+        "max_gap": 0.8
+      },
+      "caption": "Four years of undercharging. They replied in ten minutes.",
+      "hashtags": [
+        "#raiseyourrates"
+      ]
+    }
+  ]
+}

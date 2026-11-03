@@ -1,0 +1,36 @@
+{
+  "client": "Creative Money Talk",
+  "slug": "creative-money-talk",
+  "shows": [
+    "Creative Money Talk"
+  ],
+  "niche": "freelance creatives, pricing",
+  "audience": "designers and video editors, 22-35",
+  "platforms": [
+    "tiktok",
+    "reels",
+    "shorts"
+  ],
+  "clips_per_episode": 6,
+  "length_s": [
+    20,
+    60
+  ],
+  "style": "styles/house.json",
+  "vocab_fixes": {
+    "neuron visuals": "Neuron Visuals"
+  },
+  "avoid": [
+    "sponsor reads"
+  ],
+  "cta": "Full episode on Spotify",
+  "hashtags": [
+    "#freelance"
+  ],
+  "rights": "client-owned footage, supplied via Drive",
+  "approver": "host",
+  "delivery": "clients/creative-money-talk/deliveries",
+  "notes": [
+    "what performs: contrarian money takes, 25-40s, split-screen debates"
+  ]
+}

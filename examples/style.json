@@ -1,0 +1,34 @@
+{
+  "name": "montserrat-karaoke",
+  "layout": "auto",
+  "captions": {
+    "font": "Montserrat",
+    "weight": 800,
+    "animation": "karaoke",
+    "uppercase": false,
+    "max_words": 4,
+    "max_chars": 22,
+    "highlight": "#4DE1FF",
+    "emphasis": "#4DE1FF",
+    "size": 80
+  },
+  "hook": {
+    "font": "Montserrat",
+    "box_color": "#4DE1FF",
+    "color": "#000000"
+  },
+  "progress_bar": {
+    "color": "#4DE1FF",
+    "position": "top"
+  },
+  "logo": {
+    "path": "logo.png",
+    "position": "bottom-right",
+    "width": 140
+  },
+  "audiogram": {
+    "cover": "cover.jpg",
+    "wave_color": "#4DE1FF"
+  },
+  "fonts_dir": "fonts"
+}

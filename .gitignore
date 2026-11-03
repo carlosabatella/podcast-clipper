@@ -1,0 +1,13 @@
+# working files and renders
+runs/
+out/
+refs/
+*.mp4
+*.mov
+*.m4a
+*.wav
+*.mp3
+# fetched fonts and model caches
+examples/fonts/
+__pycache__/
+.cache/
